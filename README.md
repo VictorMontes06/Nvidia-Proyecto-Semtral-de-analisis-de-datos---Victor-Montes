@@ -24,3 +24,5 @@ En el archivo "S&P500.csv" se encuetra la informacion del mercado, esta informac
 En la carpeta "Codigo" se encuentra la libreta Jupiter (Que se maneja en el lenguaje de programacion Python) utilizada para analizar la tabla usando pandas.
 
 En la carpeta "data analysis nvidia" se encuentra la gran parte de análisis de datos utilizados en el proyecto, como la estadística descriptiva por columna, el análisis gráfico por variable y la regresión lineal de los datos confirmando que son datos continuos.
+
+En el archivo "Densidad de adj close" esta la densidad basada en el cierre ajustado de la accion con todos sus datos.

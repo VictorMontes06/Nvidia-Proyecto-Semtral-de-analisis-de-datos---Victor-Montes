@@ -2,6 +2,7 @@
 En este repositorio estaré adjuntando los datos estudiados de la empresa de semiconductores Nvidia y los análisis estadísticos descriptivos y inferenciales que mi grupo y junto a mi hizo y reporte técnico al igual que adjuntare mi  CV y presentación.
 
 Especificaciones:
+
 El archivo "day-price.csv" es la tabla original, representa el precio de las acciones de Nvidia de todos los dias
 
 -"_date": la fecha de esa accion.
